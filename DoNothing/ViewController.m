@@ -13,6 +13,7 @@
 @end
 
 @implementation ViewController
+@synthesize magicNumber;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
